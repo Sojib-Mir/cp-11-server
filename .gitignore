@@ -1,0 +1,5 @@
+node_modules
+.env
+plants-firebase-admin-sdk.json
+
+.vercel
